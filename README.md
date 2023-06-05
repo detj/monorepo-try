@@ -27,3 +27,4 @@ npm run develop
 1. Checkout all the package.json files. All of them use the `"type": "module"` to fully support [ECMAScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules).
 2. Rollup is used to bundle the JavaScript that is meant to be loaded in the browser.
 3. The JavaScript bundle is loaded in the HTML file using a `<script type="module"></script>` tag. Check out the [app/public/index.html](app/public/index.html) file.
+4. The root [package.json](package.json) also has a `"private": true` property to ensure that the root monorepo does not ever get published to public registries like npm.
