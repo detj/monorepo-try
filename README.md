@@ -6,5 +6,8 @@ After clone, run these
 
 ```sh
 npm install
-npm develop
+```
+
+```sh
+npm run develop
 ```
