@@ -8,6 +8,9 @@
     "develop": "npm -w app run develop"
   },
   "keywords": [],
+  "engines": {
+    "node": ">=18.x"
+  },
   "workspaces": [
     "app",
     "packages/*"
