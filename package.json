@@ -5,7 +5,7 @@
   "description": "simple monorepo setup for a friend",
   "main": "index.js",
   "scripts": {
-    "develop": "npm -w app develop"
+    "develop": "npm -w app run develop"
   },
   "keywords": [],
   "workspaces": [
