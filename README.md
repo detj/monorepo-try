@@ -1,6 +1,6 @@
 # monorepo-try
 
-Uses [npm workspaces](https://docs.npmjs.com/cli/v9/using-npm/workspaces?v=true), [rollup](https://rollupjs.org/) and [express](https://express.js.com). Uses the minimal dependencies to tie everything up.
+Uses [npm workspaces](https://docs.npmjs.com/cli/v9/using-npm/workspaces?v=true), [rollup](https://rollupjs.org/) and [express](https://expressjs.com). Uses the minimal dependencies to tie everything up.
 
 > ⚠️ **Not for Production use**
 >
